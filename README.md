@@ -2,8 +2,6 @@
 👩🏻‍💻 A student who wants to be a Software Engineer<br/>
 👩🏻‍🎓 Studying Python mainly but interested in all backend languages and game development<br/>
 💭 Currently learning Python <br/>
-🤳🏻 Doing Youtube channel management <br/>
-🛫 Worked at SunExpress as an intern for 9 months
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 
